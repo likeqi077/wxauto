@@ -2,6 +2,9 @@ whiteList = []
 
 zhipu_api_key = ''
 
-user_name = ''
+default_user_name = ''
 
-user_true_name = ''
+default_wechat_name = ''
+
+default_model_name = 'glm-4-flash'
+
