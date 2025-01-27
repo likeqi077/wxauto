@@ -1,8 +1,6 @@
-# wxauto  (适用PC微信3.9.8.15版本）
+# 适用PC微信3.9.8.15版本
 
-### 2023-11-20重写wxauto，欢迎指出bug，欢迎pull requests
-
-基于wxauto项目的Windows版本微信客户端自动化及智谱AI，可实现使用AI进行自动聊天
+基于wxauto项目(https://github.com/cluic/wxauto)的Windows版本微信客户端自动化及智谱AI，可实现使用AI进行自动聊天
 
 **3.9.8.15版本微信安装包下载**：
 [点击下载](https://github.com/tom-snow/wechat-windows-versions/releases/download/v3.9.8.15/WeChatSetup-3.9.8.15.exe)
